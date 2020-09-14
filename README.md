@@ -1,7 +1,3 @@
-# Jogos-Pygame
-Repositório criado para implementação de jogos simples usando a linguagem de programação Python e sua biblioteca Pygame. 
-Tem como objetivo estudar o funcionamento básico desses programas e adquirir pratica no desenvolvimento de programas com as ferramentas já citadas.
-
-## Ultima Versão Estável
-- Python 3.8.3
-- Pygame 1.9.6
+# Jogos-Simples
+Repositório criado para implementação de jogos simples usando a linguagem de programação Python e suas bibliotecas como Pygame e Arcade. 
+Tem como objetivo estudar e implementar o funcionamento básico de jogos conhecidos visando aprimorar as habilidades de resolução de problemas e capacidade de desenvolvimento de código.
