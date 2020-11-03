@@ -14,4 +14,3 @@ onde o jogador pode escolher se joga contra outro jogador, ou contra a máquina.
 ## Observações
 - Esta implementação foi desenvolvida para apresentar em um grupo de estudos
   de programação
-- Comentários detalhando o funcionamento das funções implementadas serão adicionados futuramente
